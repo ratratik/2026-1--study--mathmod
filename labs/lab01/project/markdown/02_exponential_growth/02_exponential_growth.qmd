@@ -10,6 +10,8 @@ using DrWatson
 using DifferentialEquations
 using DataFrames
 using Plots
+gr()
+default(fmt = :png)
 using JLD2
 using BenchmarkTools
 ```

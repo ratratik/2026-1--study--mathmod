@@ -22,9 +22,9 @@ crossref:
   lot-title: "Список таблиц"
   lol-title: "Листинги"
 ## Bibliography
-bibliography:
-  - bib/cite.bib
-csl: _resources/csl/gost-r-7-0-5-2008-numeric.csl
+#bibliography:
+#  - bib/cite.bib
+#csl: _resources/csl/gost-r-7-0-5-2008-numeric.csl
 ## Formats
 format:
   ### Docx output format
@@ -53,12 +53,12 @@ format:
     babel-lang: russian
     babel-otherlangs: english
     #### Biblatex
-    cite-method: biblatex
-    biblio-style: gost-numeric
-    biblatexoptions:
-      - backend=biber
-      - langhook=extras
-      - autolang=other*
+    #cite-method: biblatex
+    #biblio-style: gost-numeric
+    #biblatexoptions:
+    #  - backend=biber
+    #  - langhook=extras
+    #  - autolang=other*
     #### Misc options
     csquotes: true
     indent: true
