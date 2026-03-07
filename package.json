@@ -1,0 +1,19 @@
+{
+  "name": "2026-1--study--mathmod",
+  "version": "1.0.0",
+  "description": "git clone --recursive https://github.com/yamadharma/course-directory-student-template.git",
+  "main": ".cz-config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "standard-version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@gitverse.ru:2222/eapostnova/2026-1--study--mathmod.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+
+}
