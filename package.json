@@ -1,0 +1,25 @@
+{
+  "name": "2026-1--study--mathmod",
+  "version": "1.0.0",
+  "description": "Математическое моделирование",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@gitverse.ru:2222/eapostnova/2026-1--study--mathmod.git"
+  },
+  "author": "Елизавета Постнова <fnafmemories@gmail.com>",
+  "license": "CC-BY-4.0",
+  "config": {
+    "commitizen": {
+      "path": "cz-customizable"
+    }
+  },
+  "devDependencies": {
+    "commit-and-tag-version": "^12.6.1",
+    "cz-customizable": "^7.3.0"
+  },
+  "scripts": {
+    "release": "commit-and-tag-version",
+    "commit": "cz-customizable"
+  }
+}
