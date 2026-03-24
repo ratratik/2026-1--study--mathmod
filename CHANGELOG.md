@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.6.0](https://gitverse.ru:2222/eapostnova/2026-1--study--mathmod/compare/v1.5.0...v1.6.0) (2026-03-24)
+
+
+### Features
+
+* **lab:** lab07 ([e571bcd](https://gitverse.ru:2222/eapostnova/2026-1--study--mathmod/commit/e571bcd065f82a079a76b920eadea3afc19a32e6))
+
 ## [1.5.0](https://gitverse.ru:2222/eapostnova/2026-1--study--mathmod/compare/v1.4.0...v1.5.0) (2026-03-24)
 
 
